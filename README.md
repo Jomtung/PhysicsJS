@@ -4,6 +4,8 @@ A modular, extendable, and easy-to-use physics engine for javascript.
 
 Latest version: 0.6.0 (beta)
 
+[TAJ- 2014.06.12]
+Forked this thing for haskell practice along with the book - http://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf.  A comment on HN pointed out that this was what someone had already started in that direction so here's a place to review and practice.
 ## Usage
 
 **Please [visit the website](http://wellcaffeinated.net/PhysicsJS/) for
